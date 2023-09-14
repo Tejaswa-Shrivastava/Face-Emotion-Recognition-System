@@ -7,7 +7,7 @@
 - intrtools
 
 ## Kaggle Code link
-- https://www.kaggle.com/code/amankumar2004/emotion-detection-recognition
+- https://www.kaggle.com/tejaswashrivastava/face-emotion
 
 
 ## All the folders in the directory:
@@ -39,12 +39,3 @@ Final Optimizer used -- **Adam**
 https://user-images.githubusercontent.com/99892898/184361402-13b8b507-b4a8-42b7-ba8b-eb34ed96a73a.mp4
 
 
-#### Group Members
-1. Aman Kumar(210002012)
-2. Rishabh Patil(210002062)
-3. Parth Toshniwal(210002056)
-4. Prajwal Bastewad(210002021)
-
-## Group Mentor
-
-1.Atharva Mohite(200003016)
