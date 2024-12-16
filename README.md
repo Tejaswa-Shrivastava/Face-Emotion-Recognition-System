@@ -6,9 +6,6 @@
 - tensorflow
 - intrtools
 
-## Kaggle Code link
-- https://www.kaggle.com/tejaswashrivastava/face-emotion
-
 
 ## All the folders in the directory:
 1. **harcascade_frontalface_classifier**- An xml file which is an Object Detection Algorithm used to identify faces in an image or a real time video. 
